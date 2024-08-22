@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dApqhgZaEE4omeNd6JUdt5GUbue4YU0F0mIyIHc7rZbY4SJmOebgLZE5dkmXPL+hTuTkgTExi08rZVbPUarYLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\StrategyPattern\\StrategtPatternWithKeyedService\\StrategtPatternWithKeyedService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
